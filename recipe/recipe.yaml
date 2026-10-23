@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "3.2.4"
+  version: "3.2.5"
 
 package:
   name: langchain-google-vertexai
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/l/langchain-google-vertexai/langchain_google_vertexai-${{ version }}.tar.gz
-  sha256: f0c16b4b639037f60357dbf6d4aa3b0f301f23be6b33b0688c75902235cb9434
+  sha256: 0a4b267aceefbaf8622bb47a13bffd8b2f93e2f2b9e298a91305592e88f33531
 
 build:
   number: 0
